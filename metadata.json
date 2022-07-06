@@ -1,0 +1,11 @@
+{
+    "chainId": 101,
+    "address": "HJcX6QeZJSwrrWU8hw2h1AH3B8i6PzBLYWCph73MCDLo",
+    "symbol": "IUTC",
+    "name": "IUT Smart Token",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/arctronic/itc/main/logo.png",
+    "tags": [
+        "social-token"
+    ]
+}
